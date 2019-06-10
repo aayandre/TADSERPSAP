@@ -2,12 +2,12 @@
 
 Fluxo de realização do pedido e sua aprovação
 
-Alexandre Vinicius
-Andre de Amorim Yamamoto  
-Daniel Novaes
-Leandro Alves
-Marcelo Pereira
-Vinicius Presoto
+### Alexandre Vinicius
+### Andre de Amorim Yamamoto  
+### Daniel Novaes
+### Leandro Alves
+### Marcelo Pereira
+### Vinicius Presoto
 
 ![](https://github.com/aayandre/TADSERPSAP/blob/master/Captura%20de%20Tela%20(2).png)
 ![](https://github.com/aayandre/TADSERPSAP/blob/master/Captura%20de%20Tela%20(3).png)
